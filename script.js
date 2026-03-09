@@ -34,6 +34,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
 });
 
+
 /* ═══════════════════════════════════════
    PRODUCT DATA (matches your site)
 ═══════════════════════════════════════ */
